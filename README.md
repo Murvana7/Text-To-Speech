@@ -1,9 +1,9 @@
-🗣️ Text to Speech Web App
+# 🗣️ Text to Speech Web App
 
 A simple and clean Text-to-Speech web application built using HTML, CSS, and JavaScript.
 It converts user-entered text into spoken audio using the Web Speech API.
 
-🚀 Features
+## 🚀 Features
 
 - Convert text into speech instantly
 
@@ -15,7 +15,7 @@ It converts user-entered text into spoken audio using the Web Speech API.
 
 - No external libraries required
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
